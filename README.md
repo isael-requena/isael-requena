@@ -1,12 +1,12 @@
 <img width="600" src="./images/ISAEL.gif" alt="Isael - Jafeth Banner" width />
 
-Hi, I'm **Isael Jafeth Requena Romero**, a Venezuelan passionate about learning technology and programming.
+>Hi, I'm **Isael Jafeth Requena Romero**, a Venezuelan passionate about learning technology and programming.
+>
+>*Every day improving, I never stop learning in this life.* ☄
 
-*Every day improving, I never stop learning in this life.* ☄
-
-**I use:**
-
-<code><img height="40" src="./images/icon-1-angular.png" alt="Angular" /></code>
+>**I use:**
+>
+><code><img height="40" src="./images/icon-1-angular.png" alt="Angular" /></code>
 <code><img height="40" src="./images/icon-2-html5-2.png" alt="Html" /></code>
 <code><img height="40" src="./images/icon-3-css.png" alt="Css" /></code>
 <code><img height="40" src="./images/icon-4-javascript.png" alt="JavaScript" /></code>
@@ -16,11 +16,11 @@ Hi, I'm **Isael Jafeth Requena Romero**, a Venezuelan passionate about learning 
 <code><img height="40" src="./images/icon-5-canva.png" alt="Canva" /></code>
 
 
-<code>
 
- - 🌱 I’m currently learning: Frontend development 🖥
- - ⚡ Fun fact: Love videogames 🎮👾 | Learning English 📚 | Graphic design 🖋
- - 👯 I’m looking to collaborate on: Web development 💻 | Mobile app 📱
+
+> - 🌱 I’m currently learning: Frontend development 🖥
+> - ⚡ Fun fact: Love videogames 🎮👾 | Learning English 📚 | Graphic design 🖋
+> - 👯 I’m looking to collaborate on: Web development 💻 | Mobile app 📱
 
 <img class="gif-rick" src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-moon-mod-download-35.png" alt="Rick and morty" style="width:150px;" />
 
