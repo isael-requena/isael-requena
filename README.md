@@ -1,4 +1,4 @@
-<img width="600" src="./images/ISAEL.gif" alt="Isael - Jafeth" width />
+<img width="600" src="./images/ISAEL.gif" alt="Isael - Jafeth Banner" width />
 
 Hi, I'm **Isael Jafeth Requena Romero**, a Venezuelan passionate about learning technology and programming.
 
