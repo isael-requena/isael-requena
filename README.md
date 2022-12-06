@@ -19,6 +19,7 @@
 
 
 > - 🌱 I’m currently learning: Frontend development 🖥
+> - 🏢 currently working at: company FibexPlay as developer and tester 👨🏻‍💻
 > - ⚡ Fun fact: Love videogames 🎮👾 | Learning English 📚 | Graphic design 🖋
 > - 👯 I’m looking to collaborate on: Web development 💻 | Mobile app 📱
 
