@@ -31,6 +31,6 @@
 >   - 🪐 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram Logo" width="15" /> **[Instagram](https://www.instagram.com/isael_jafeth/)**
 >   - 🪐 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Youtube Logo" width="15" />  **[Youtube](https://www.youtube.com/channel/UCkpRDjeycqwONr3peMyfXvw)**
 >   - 🪐 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Gmail Logo" width="15"/> **[Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTMXPWxHXqTpZxNtXwdpsnCKDhzCxBXdRzfNlzSmhQksTbwSJgLkNZLJKBptKpDkTvkvjV)**
-~
+
 
 <img width="850" src="./images/Banner-2-2.png" alt="Isael Banner 2" />
