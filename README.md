@@ -180,32 +180,6 @@ const isael = {
 
 ---
 
-## 🎨 Rick and Morty Universe
-
-<div align="center">
-  <img src="https://www.freepnglogos.com/uploads/rick-and-morty-png/rick-and-morty-portal-moon-mod-download-35.png" alt="Rick and Morty" width="150"/>
-  <img src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" width="200" />
-</div>
-
-> *"Wubba Lubba Dub Dub!"* - Rick Sanchez
-
-> Like Rick, I'm always experimenting with new technologies and dimensions of code 🚀
-
-> Always grateful to God, family and my boss who inspire me
-
----
-
-## 🏆 Featured Achievements
-
-🎖️ **Full Stack Developer** at Fibex Telecom  
-
-🎖️ **Over 100 commits** on GitHub this year  
-
-🎖️ **Roku Developer** with published channels
-
-🎖️ **Mobile App Developer** with published apps  
-
----
 
 ## 🌟 Inspirational Quote
 
