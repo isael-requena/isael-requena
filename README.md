@@ -24,7 +24,7 @@
 🤝 **Looking to collaborate on:** Web development | Mobile apps | Game development  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+  <img src="./images/photo-programming-machines.jpg" alt="Programming machines" width="70%" />
 </div>
 
 ---
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isael-requena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -69,7 +69,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=isael-requena&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 
 
@@ -82,13 +82,13 @@
 - AI project
 - Database management
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
-</div>
+</div> -->
 
----
+<!-- --- -->
 
-## 🎯 Technical Skills
+<!-- ## 🎯 Technical Skills
 
 <div align="center">
   
@@ -109,11 +109,9 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-</div>
+</div> -->
 
----
-
-## 🌈 Productivity Metrics
+<!-- ## 🌈 Productivity Metrics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isael-requena&theme=tokyonight" />
@@ -122,11 +120,9 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isael-requena&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isael-requena&theme=tokyonight" />
-</div>
+</div> -->
 
----
-
-## 🎮 When I'm Not Coding...
+<!-- ## 🎮 When I'm Not Coding...
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
@@ -137,7 +133,7 @@
 - 🎮 **Gaming:** Exploring virtual worlds and new adventures
 - 📚 **Learning English:** Improving my linguistic skills
 - 🎨 **Graphic Design:** Creating impactful visual content
-- 🌟 **Innovation:** Always looking for the next big idea
+- 🌟 **Innovation:** Always looking for the next big idea -->
 
 ---
 
@@ -160,7 +156,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-```javascript
+<!-- ```javascript
 const isael = {
   code: ["JavaScript", "TypeScript", "PHP", "BrightScript", "HTML", "CSS", "Sass", "C++", "Python"],
   frameworks: ["React", "Angular", "Ionic", "Node.js", "Laravel"],
@@ -170,13 +166,13 @@ const isael = {
   currentFocus: "Full Stack Development",
   funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
-```
+``` -->
 
 > *"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."* - Steve Jobs
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-</div>
+</div> -->
 
 ---
 
@@ -191,9 +187,10 @@ const isael = {
 
 ---
 
-<div align="center">
-  <img width="100%" src="./images/Banner-2-2.png" alt="Isael Banner 2" />
-</div>
+<!-- <div align="center">
+  <img src="./images/photo-programming-machines.jpg" alt="Programming machines" width="70%" />
+  <img src="./images/photo-technology-on-an-event.jpg" alt="Technology on an event" width="70%" />
+</div> -->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isael-requena&color=blueviolet&style=for-the-badge" alt="Profile Views" />
