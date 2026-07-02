@@ -24,7 +24,7 @@
 🤝 **Looking to collaborate on:** Web development | Mobile apps | Game development  
 
 <div align="center">
-  <img src="./images/photo-programming-machines.jpg" alt="Programming machines" width="70%" />
+  <img src="./images/photo-programming-machines.jpg" alt="Programming machines" height="340" />
 </div>
 
 ---
